@@ -1,2 +1,2 @@
 
-print("Hello world")
+print("Docker run test")
