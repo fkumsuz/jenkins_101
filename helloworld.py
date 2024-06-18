@@ -1,2 +1,4 @@
+import datetime
 
-print("Docker run test")
+time = datetime.datetime.now()
+print(f"Docker run test \nDate and time: {time}") 
